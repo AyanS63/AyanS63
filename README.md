@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyanS63
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning MERN
 
 
 <!---
